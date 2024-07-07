@@ -6,8 +6,11 @@ The input file sample_in_schedule.txt should contain task information in the fol
 
 ThreadID,ArrivalTime,BurstTime
 1,0,4
+
 2,1,3
+
 3,2,1
+
 4,3,2
 
 # Output
