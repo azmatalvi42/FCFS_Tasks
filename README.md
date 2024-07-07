@@ -4,7 +4,8 @@ C program that calculates the average waiting time and turnaround time for a pre
 # Input File Format
 The input file sample_in_schedule.txt should contain task information in the following format:
 
-ThreadID,ArrivalTime,BurstTime
+ThreadID, ArrivalTime, BurstTime
+
 1,0,4
 
 2,1,3
